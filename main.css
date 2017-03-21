@@ -1,13 +1,56 @@
-<!--TODO-->
+/* TEST */
 
+body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Belleza;
+	background-color: rbg(240, 230,175);
+}
 
-
-
-
-
-
-
+#main-header{
+	height: 80px;
+}
+.logo{
+	width: 60px;
+	height: 60;
+	border-radius: 30px;
+	margin-right: 10px;
+	display: inline;
+}
 
 #header-name {
-	font-size: 40xp
+	font-size: 40px;
+	color: freen;
+	padding: 15px;
+	margin: 0px 0px 0px 0px;
+	display: inline;
+	}
+
+#main-image{
+	width: 700px;
+	height: 250px;
+	float: left;
+}
+
+#side-image{
+	width: 300px;
+	height: 250px;
+	float: right;
+}
+
+#welcome{
+	width; 700px;
+	float: left;
+	font-size: 12px;
+	margin: 20px 0px 20px 0px;
+	background-color: red;
+}
+
+footer{
+	width: 100%;
+	background-color: green;
+	margin; 20px 0px 20x opx;
+	padding: 5px 0px 0px 0px;
+	border-radius: 5px;
 }
